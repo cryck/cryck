@@ -2,8 +2,6 @@
 
 I am **Hendrik Michaelsen** currently working as a Software Engineer for [Supermetrics](https://supermetrics.com) as well as [Schleswig-Holsteinischer Landtag](https://www.landtag.ltsh.de/). My experience is mainly within **TypeScript, React, CSS and PHP** but not limited to these.
 
-[![Linkedin: Hendrik](https://img.shields.io/badge/-Hendrik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hendrik-michaelsen/)](https://www.linkedin.com/in/hendrik-michaelsen/)
-
 <!--
 **cryck/cryck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
